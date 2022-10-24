@@ -9,10 +9,10 @@ guilds = ''
 status = ''
 activity = discord.ActivityType.watching
 ######################################## - Join Leave Embed
-joinrole = 994781504846700604
-joinchannel = '🛬┋einreise'
+joinrole = 
+joinchannel = 'CHANNELNAME'
 buttonurl = 'https://stake.com/casino/home'
-leavechannel = ''
+leavechannel = 'CHANNELNAME'
 ######################################## - User Commands
 userinfo = 'userinfo'
 helpcmd = 'help'
