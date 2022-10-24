@@ -1,13 +1,13 @@
 # Discord-Python-Bot
 A Small Discord Python Bot
 
-How to Install 
+**How to Install**
 
 pip install py-charm
 
 pip install config
 
-Commands
+**Commands**
 
 userinfo
 help
@@ -21,4 +21,4 @@ clear
 bann
 kick
 
-The bot has a suggestion function to ask questions and a welcome embed as well as a leave embed.
+**The bot has a suggestion function to ask questions and a welcome embed as well as a leave embed.**
